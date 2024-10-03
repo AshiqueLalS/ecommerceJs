@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(212, 233, 239);
+}
+
+/* .navbar{
+    background-color: rgb(23, 21, 41);
+    color: white;
+} */
+
+#product-list{
+    background-color: rgb(217, 230, 244) ;
+}
+
+.banner-items{
+    height:400px ;
+    object-fit: contain;
+}
+
+.product-image{
+    height: 250px;
+    object-fit: contain;
+}
+
+.product-title{
+    height: 50px;
+    overflow: hidden;
+}
+.product-description{
+    height: 100px;
+    overflow: hidden;
+}
